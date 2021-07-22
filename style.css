@@ -42,7 +42,7 @@ html {
 
  .image-container img {
      width: 100%; 
-     margin-top: 5px;;
+     margin-top: 5px;
  }
 
  /* Media Query: Smartphone */
@@ -51,6 +51,6 @@ html {
          font-size: 20px;
      }
      .image-container {
-         margin: 10px;
+         margin: 10px ;
      }
  }

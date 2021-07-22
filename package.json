@@ -1,0 +1,24 @@
+{
+  "name": "infinite-scroll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cachurch/infinite-scroll.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cachurch/infinite-scroll/issues"
+  },
+  "homepage": "https://github.com/cachurch/infinite-scroll#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "envdist": "^1.0.14"
+  }
+}
