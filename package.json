@@ -19,6 +19,7 @@
   "homepage": "https://github.com/cachurch/infinite-scroll#readme",
   "dependencies": {
     "dotenv": "^10.0.0",
-    "envdist": "^1.0.14"
+    "envdist": "^1.0.14",
+    "heroku": "^7.56.1"
   }
 }
